@@ -1,4 +1,4 @@
-<h1> Data Visualization - Python Project</h1>
+<h1>Data Visualization using matplotlib in Python</h1>
 <br>
 <h2>Features</h2>
 <ul>
